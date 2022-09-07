@@ -1,0 +1,10 @@
+C:\Users\Home-Comp\Desktop\Hirsipuu\Hirsipuu\bin\Debug\Hirsipuu.exe.config
+C:\Users\Home-Comp\Desktop\Hirsipuu\Hirsipuu\bin\Debug\Hirsipuu.exe
+C:\Users\Home-Comp\Desktop\Hirsipuu\Hirsipuu\bin\Debug\Hirsipuu.pdb
+C:\Users\Home-Comp\Desktop\Hirsipuu\Hirsipuu\obj\Debug\Hirsipuu.csprojAssemblyReference.cache
+C:\Users\Home-Comp\Desktop\Hirsipuu\Hirsipuu\obj\Debug\Hirsipuu.Form1.resources
+C:\Users\Home-Comp\Desktop\Hirsipuu\Hirsipuu\obj\Debug\Hirsipuu.Properties.Resources.resources
+C:\Users\Home-Comp\Desktop\Hirsipuu\Hirsipuu\obj\Debug\Hirsipuu.csproj.GenerateResource.cache
+C:\Users\Home-Comp\Desktop\Hirsipuu\Hirsipuu\obj\Debug\Hirsipuu.csproj.CoreCompileInputs.cache
+C:\Users\Home-Comp\Desktop\Hirsipuu\Hirsipuu\obj\Debug\Hirsipuu.exe
+C:\Users\Home-Comp\Desktop\Hirsipuu\Hirsipuu\obj\Debug\Hirsipuu.pdb
